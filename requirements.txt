@@ -1,0 +1,9 @@
+pandas
+duckdb
+requests
+requests-cache
+python-dotenv
+seaborn
+matplotlib
+numpy
+pandas
